@@ -8,5 +8,6 @@ Buatlah program menggunakan perulangan dan jumlah perulangan diinput manual pada
 3. Jika bilangan merupakan kelipatan bilangan 3 dan 5 maka akan mencetak "Bage Concat"
 4. Jika program sudah mencetak kata "Bage Concat" sebanyak 2 kali maka untuk bilangan kelipatan 3 akan mencetak "Concat" dan bilangan kelipatan 5 akan mencetak "Bage" 
 5. Hentikan program ketika kata "Bage Concat" telah tercetak sebanyak 5 kali.
-Note:
+
+## Note:
 *) Untuk Web programmer diwajibkan menggunakan METHOD dan CLASS ( bahasa pemrograman PHP )
